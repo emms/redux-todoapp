@@ -1,0 +1,7 @@
+.FilterOption {
+  margin: 0 3px;
+}
+
+.FilterOption.active {
+  font-weight: 600;
+}
